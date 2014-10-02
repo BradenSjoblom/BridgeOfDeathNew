@@ -1,0 +1,10 @@
+H:\GitHub\BridgeOfDeathNew\BridgeOfDeathNew\bin\Debug\BridgeOfDeathNew.exe.config
+H:\GitHub\BridgeOfDeathNew\BridgeOfDeathNew\bin\Debug\BridgeOfDeathNew.exe
+H:\GitHub\BridgeOfDeathNew\BridgeOfDeathNew\bin\Debug\BridgeOfDeathNew.pdb
+H:\GitHub\BridgeOfDeathNew\BridgeOfDeathNew\bin\Debug\BridgeOfDeathNew.xml
+H:\GitHub\BridgeOfDeathNew\BridgeOfDeathNew\obj\Debug\BridgeOfDeathNew.Form1.resources
+H:\GitHub\BridgeOfDeathNew\BridgeOfDeathNew\obj\Debug\BridgeOfDeathNew.Resources.resources
+H:\GitHub\BridgeOfDeathNew\BridgeOfDeathNew\obj\Debug\BridgeOfDeathNew.vbproj.GenerateResource.Cache
+H:\GitHub\BridgeOfDeathNew\BridgeOfDeathNew\obj\Debug\BridgeOfDeathNew.exe
+H:\GitHub\BridgeOfDeathNew\BridgeOfDeathNew\obj\Debug\BridgeOfDeathNew.xml
+H:\GitHub\BridgeOfDeathNew\BridgeOfDeathNew\obj\Debug\BridgeOfDeathNew.pdb
